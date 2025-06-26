@@ -217,6 +217,9 @@
                 valueGain: `
                     <h4 class="font-bold text-lg mb-2 mt-4 text-slate-800">Value Gain</h4>
                     <p class="text-slate-600">Dramatically increases operational efficiency and reduces contract cycle times (Docusign reports 70% time savings). It enhances compliance through proactive identification of non-standard clauses and automated monitoring of key dates. The system moves towards self-optimizing CLM by learning from negotiation delays or rejections to improve future contract success rates.</p>
+                    More with CLM: `
+                    <h4 class="font-bold text-lg mb-2 mt-4 text-slate-800">More with CLM</h4>
+                    <p class="text-slate-600">DocuSign Agreement Desk enhances CLM functionality by providing a centralized, intelligent workspace where sales, legal, and business teams can collaborate on agreements in real time. It streamlines contract review and approval processes, surfaces key insights and risks using AI, and integrates seamlessly with systems like Salesforce. This results in faster deal cycles, reduced legal bottlenecks, and improved visibility into contract status—bringing CLM-like efficiency and control to any agreement workflow.</p>
                 `
             },
             { 
